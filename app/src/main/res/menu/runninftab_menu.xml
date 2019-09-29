@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/runFragment"
+        android:icon="@drawable/run"
+        android:title="@string/run" />
+
+    <item
+        android:id="@+id/statisticsFragment"
+        android:icon="@drawable/statistics"
+        android:title="@string/statistitcs" />
+
+
+    <item
+        android:id="@+id/communityFragment"
+        android:icon="@drawable/community"
+        android:title="@string/community" />
+
+    <item
+        android:id="@+id/achievementFragment"
+        android:icon="@drawable/achievement"
+        android:title="@string/achievement" />
+
+
+
+
+
+</menu>

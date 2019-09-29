@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyRunning</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="running">運動管家</string>
+    <string name="stroe">商店街</string>
+    <string name="setting">設定</string>
+    <string name="run">運動</string>
+    <string name="statistitcs">統計</string>
+    <string name="community">社群</string>
+    <string name="achievement">成就</string>
+    <string name="shopping">瀏覽商品</string>
+    <string name="shoppingcart">購物車</string>
+    <string name="order_detail">查詢訂單</string>
+    <string name="service">客服</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_store">電商</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
